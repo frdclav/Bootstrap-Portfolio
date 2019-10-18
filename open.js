@@ -6,7 +6,7 @@
 //     window.location.href = "https://frdc.info/Bootstrap-Portfolio";
 // })
 $(document).ready(function() {
-    $("body").fadeIn("slow");
+    $("html").delay(200).fadeIn(1000);
 
 
 });
